@@ -1,7 +1,20 @@
-
-
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
-    margin: 10px;
+    margin-top: 130px;
+    margin-left: 330px;
+}
+
+.header {
+    background-color: rgb(51, 51, 51);
+    height: 15px;
+    margin-top: 0;
+}
+
+.comp {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    height: 250px;
 }
