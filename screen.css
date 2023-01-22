@@ -18,3 +18,40 @@ h1 {
     display: block;
     height: 250px;
 }
+
+.card1{
+    background-color: rgb(243, 243, 243);
+    border-radius: 15px;
+    box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
+    border: 1px solid #aaa;
+    width: 250px;
+    padding: 20px;
+    margin-left: 330px;
+    
+}
+
+h2 {
+    margin-left: 330px;
+    display: inline-block;
+}
+
+.cards {
+    display: inline-block;
+}
+
+.card2 {
+    background-color: rgb(243, 243, 243);
+    border-radius: 15px;
+    box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
+    border: 1px solid #aaa;
+    width: 250px;
+    padding: 20px;
+    margin-top: -240px;
+    height: 180px;
+    margin-left: 640px;
+}
+
+.example {
+    margin-left: 230px;
+}
+
